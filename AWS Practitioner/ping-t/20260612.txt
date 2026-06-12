@@ -1,0 +1,12 @@
+ストレージ
+EBS
+EFS
+FSx
+Storage Gateway
+Backup
+
+データベース
+RDS/Aurora
+Redshift/Neptune
+
+合計：1時間30分程度
