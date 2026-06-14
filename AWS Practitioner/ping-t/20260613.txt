@@ -5,5 +5,7 @@ Elastic Beanstalk/Lightsail 正答率：3/3
 Lambda/API Gateway 正答率：5/5
 Batch/App Runner 正答率：3/4
 ECS/Fargate/EKS 正答率：9/11
+
+主要なサービス
 ELB/Auto Scaling 正答率：20/21
 IAM/Organizations 正答率：22/30
