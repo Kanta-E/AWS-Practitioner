@@ -1,3 +1,4 @@
+cd C:\Study
 git add .
-git commit -m "Day2 Packet Tracer演習"
+git commit -m "Day4 Study_AWS"
 git push
