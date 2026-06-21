@@ -1,0 +1,12 @@
+移行と転送
+DataSync/Snowball 正答率：4/4
+
+ネットワーク、コンテンツ
+Direct Connect/VPN 正答率：2/4
+ClounFront/Global Accelerator 正答率：4/5
+Route 53 正答率：7/8
+
+セキュリティ
+STS/IAM Identity Center/Cognito 正答率：3/4
+Macie/GuardDuty/Inspector/SecurityHub 正答率：5/5
+
