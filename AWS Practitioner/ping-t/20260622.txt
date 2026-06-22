@@ -1,0 +1,11 @@
+セキュリティ、アイデンティティ、コンプライアンス
+Artifact 正答率：3/5
+Secrets Manager/ACM 正答率：2/3
+KMS/CloudHSM 正答率：2/3
+WAF/Shield 正答率：4/5
+
+マネジメント、モニタリング、ガバナンス
+Systems Manager/Managed Service/Health Dashboard 正答率：3/4
+Config/Control Tower 正答率：4/5
+Cost Explorer/Budgets 正答率：4/6
+
