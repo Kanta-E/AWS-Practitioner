@@ -1,4 +1,4 @@
 cd C:\Study
 git add .
-git commit -m "Day9 Study"
+git commit -m "Day10 Study"
 git push

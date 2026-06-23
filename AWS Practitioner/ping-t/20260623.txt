@@ -1,0 +1,12 @@
+セキュリティ、アイデンティティ、コンプライアンス
+Trusted Advisor/Compute Optimizer 正答率：5/6
+CloudFormation 正答率：4/4
+CloudTrail 正答率：3/3
+CloudWatch 正答率：2/3
+
+
+データベース
+DynamoDB/ElastiCache/MemoryDB 正答率：3/4
+Redshift/Neptune 正答率：3/4
+RDS/Aurora 正答率：14/16
+
