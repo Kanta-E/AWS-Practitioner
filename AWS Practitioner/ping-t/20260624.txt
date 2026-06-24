@@ -1,0 +1,17 @@
+ストレージ
+Backup 正答率：3/3
+Storage Gateway 正答率：4/4
+FSx 正答率：3/4
+EFS 正答率：10/11
+EBS 正答率：3/4
+
+コンピューティング
+Outposts/Wavelength 正答率：3/4
+WorkSpaces/AppStream 正答率：4/4
+Elastic Beanstalk/Lightsai 正答率：3/3
+Lambda/API Gateway 正答率：4/5
+
+
+
+
+
