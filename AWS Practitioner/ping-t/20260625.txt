@@ -1,0 +1,13 @@
+コンピューティング
+Batch 正答率：3/3
+ECS/Fargate/EKS 正答率：11/11
+
+
+主要なサービス
+ELB/Auto Scaling 正答率：20/21
+IAM/Organizations 正答率：20/30
+
+
+
+
+
