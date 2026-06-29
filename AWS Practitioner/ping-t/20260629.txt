@@ -1,0 +1,12 @@
+AWSクラウドの基本
+AWSの概要 正答率：13/14
+オンプレミスとクラウド 正答率：10/11
+
+機械学習
+Comprehend/Translate/Kendra/Transcribe/Polly/Lex/Rekognition/Textract 正答率：1/1
+
+開発用ツール
+Cloud9/CodeCommit/CodeBuild/CodeDeploy/CodePipeline 正答率：1/1
+
+分析
+Kinesis/Data Firehose 正答率：0/1
