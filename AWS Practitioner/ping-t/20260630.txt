@@ -1,0 +1,59 @@
+分析
+Kinesis/Data Firehose
+1/1
+
+ネットワーク、コンテンツ
+Direct Connect/VPN
+2/2
+
+CloudFront/Global Accelerator
+0/1
+
+Route 53
+1/1
+
+セキュリティ、アイデンテ
+STS
+1/1
+
+Secrets Manager/ACM
+0/1
+
+Artifact
+0/1
+
+KMS/CloudHSM
+0/1
+
+WAF/Shield
+1/1
+
+マネジメント、モニタリン
+Systems Manager/Managed Service/Health Dashboard
+0/1
+
+Config/Control Tower
+1/1
+
+Cost Explorer/Budgets
+0/2
+
+Trusted Advisor/Compute Optimizer
+1/1
+
+CloudWatch
+0/1
+
+
+データベース
+DynamoDB/ElastiCache/MemoryDB
+1/1
+
+Redshift/Neptune
+1\1
+
+RDS/Aurora
+1/2
+
+FSx
+1/1
