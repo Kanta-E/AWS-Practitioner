@@ -1,0 +1,14 @@
+ストレージ
+EFS 0/1
+EBS 1/1
+
+コンピューティング
+Outposts/Wavelength 0/1
+Lambda/API Gateway 1/1
+
+主要なサービス
+ELB/Auto Scaling 1/1
+IAM/Organizations 7/10
+VPC 2/3
+S3 3/5
+EC2 3/5
