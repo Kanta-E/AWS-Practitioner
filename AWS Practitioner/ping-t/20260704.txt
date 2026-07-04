@@ -1,0 +1,34 @@
+効果的な設計
+クラウド導入フレームワーク 15/22
+
+機械学習
+Comprehend/Translate/Kendra/Transcribe/Polly/Lex/Rekognition/Textract 11/11
+
+開発用ツール
+X-Ray/Amplify 2/2
+Cloud9/CodeCommit/CodeBuild/CodeDeploy/CodePipeline 6/6
+
+分析
+Glue/Athena/QuickSight 3/3
+Kinesis/Data Firehose 3/3
+
+アプリケーション統合
+SNS/SQS/EventBridge/Step Functions 5/5
+
+移行と転送
+Migration Hub/ADS/MGN/DMS 5/7
+
+ネットワーク、コンテンツ配
+Direct Connect/VPN 4/4
+
+ネットワーク、コンテンツ
+CloudFront/Global Accelerator 1/1
+
+
+セキュリティ、アイデンティティ、コンプライアンス
+STS/IAM Identity Center/Cognito 3/4
+Macie/GuardDuty/Inspector/Security Hub 4/5
+Artifact 4/4
+Secrets Manager/ACM 2/3
+KMS/CloudHSM 3/3
+WAF/Shield 5/5
